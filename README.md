@@ -1,6 +1,8 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio | Front-end - Módulo 1
+
+# Desafio | Front-end - Módulo 1 (teste 2)
+
 O objetivo deste exercício é replicar a página encontrada no arquivo 'Desafio front academy 1.fig'.
 
 ## Páginas obrigatórias
